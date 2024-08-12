@@ -15,6 +15,3 @@ This project demonstrates real-time face and smile detection using OpenCV. The a
 - Python 3.x
 - OpenCV (cv2)
 
-## Installation
-
-1. **Clone the Repository**
